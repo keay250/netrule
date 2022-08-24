@@ -9,3 +9,4 @@ DOMAIN-SUFFIX, azurland.tw
 
 # 少女回战
 DOMAIN-SUFFIX, shtwaccount.menaapp.net
+IP-CIDR, 47.91.10.133/32
