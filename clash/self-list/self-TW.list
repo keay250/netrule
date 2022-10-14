@@ -12,3 +12,18 @@ DOMAIN-SUFFIX, shtwaccount.menaapp.net
 DOMAIN, pregzdata1.anipkzhx.xyz
 IP-CIDR, 47.91.10.133/32
 IP-CIDR, 124.71.87.130/32
+
+# 跑跑卡丁车
+DOMAIN, kartm.dn.nexoncdn.co.kr
+DOMAIN, toy.log.nexon.io
+DOMAIN, jp.livelog.nexon.com
+DOMAIN, sdk-push.mp.nexon.com
+DOMAIN, d30y0swoxkbnsm.cloudfront.net
+DOMAIN, m-page.nexon.com
+DOMAIN, tw.voice.gcloudcs.com
+DOMAIN, ktmtw-prd-pvp1.nexon.com
+DOMAIN, ktmtw-prd-pvp2.nexon.com
+DOMAIN, ktmtw-prd-pvp3.nexon.com
+DOMAIN, ktmtw-prd-pvp4.nexon.com
+DOMAIN, ktmtw-prd-pvp5.nexon.com
+IP-CIDR, 119.28.217.111/32
