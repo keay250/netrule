@@ -2,5 +2,5 @@
 # AUTHOR: LateResonance
 
 # 漫画柜
-HOST-SUFFIX, manhuagui.com
-HOST-SUFFIX, hamreus.com
+HOST-SUFFIX, manhuagui.com, self-JP
+HOST-SUFFIX, hamreus.com, self-JP
