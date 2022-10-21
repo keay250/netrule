@@ -2,7 +2,7 @@
 # AUTHOR: LateResonance
 
 
-IP-CIDR, 139.95.1.134/32
+IP-CIDR, 139.95.1.134/32, self-TW
 
 # 碧蓝航线
 HOST-SUFFIX, azurlane.tw, self-TW
