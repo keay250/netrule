@@ -1,0 +1,29 @@
+# NAME: self-TW
+# AUTHOR: LateResonance
+
+
+IP-CIDR, 139.95.1.134/32, self-TW
+
+# 碧蓝航线
+HOST-SUFFIX, azurlane.tw, self-TW
+
+# 少女回战
+HOST-SUFFIX,shtwaccount.menaapp.net, self-TW
+HOST,pregzdata1.anipkzhx.xyz, self-TW
+IP-CIDR,47.91.10.133/32, self-TW
+IP-CIDR,124.71.87.130/32, self-TW
+
+# 跑跑卡丁车
+HOST,kartm.dn.nexoncdn.co.kr, self-TW
+HOST,toy.log.nexon.io, self-TW
+HOST,jp.livelog.nexon.com, self-TW
+HOST,sdk-push.mp.nexon.com, self-TW
+HOST,d30y0swoxkbnsm.cloudfront.net, self-TW
+HOST,m-page.nexon.com, self-TW
+HOST,tw.voice.gcloudcs.com, self-TW
+HOST,ktmtw-prd-pvp1.nexon.com, self-TW
+HOST,ktmtw-prd-pvp2.nexon.com, self-TW
+HOST,ktmtw-prd-pvp3.nexon.com, self-TW
+HOST,ktmtw-prd-pvp4.nexon.com, self-TW
+HOST,ktmtw-prd-pvp5.nexon.com, self-TW
+IP-CIDR,119.28.217.111/32, self-TW
