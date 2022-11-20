@@ -39,3 +39,6 @@ payload:
   - DOMAIN, ba.dn.nexoncdn.co.kr
   - DOMAIN, m-api.nexon.com
   - DOMAIN, ocsp.sca1b.amazontrust.com
+  - DOMAIN, d30y0swoxkbnsm.cloudfront.net
+  - DOMAIN, nxm-tw-bagl.nexon.com
+  - DOMAIN, log.ngsm.nexon.com

@@ -35,6 +35,10 @@ HOST, cloud.nikke-kr.com, self-TW
 HOST, ms.singaporepaya.com, self-TW
 HOST, sg.intlgame.com, self-TW
 
+# 碧蓝档案
 HOST, ba.dn.nexoncdn.co.kr, self-TW
 HOST, m-api.nexon.com, self-TW
 HOST, ocsp.sca1b.amazontrust.com, self-TW
+HOST, nxm-tw-bagl.nexon.com, self-TW
+HOST, log.ngsm.nexon.com, self-TW
+HOST, d30y0swoxkbnsm.cloudfront.net, self-TW
