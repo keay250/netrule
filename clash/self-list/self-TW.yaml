@@ -30,3 +30,12 @@ payload:
 
 # NIKKE
   - DOMAIN-SUFFIX, nikke-kr.com
+  - DOMAIN, sg-dr.intlgame.com
+  - DOMAIN, cloud.nikke-kr.com
+  - DOMAIN, ms.singaporepaya.com
+  - DOMAIN, sg.intlgame.com
+
+# 碧蓝档案
+  - DOMAIN, ba.dn.nexoncdn.co.kr
+  - DOMAIN, m-api.nexon.com
+  - DOMAIN, ocsp.sca1b.amazontrust.com

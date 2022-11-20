@@ -30,3 +30,11 @@ IP-CIDR,119.28.217.111/32, self-TW
 
 # NIKKE
 HOST-SUFFIX, nikke-kr.com, self-TW
+HOST, sg-dr.intlgame.com, self-TW
+HOST, cloud.nikke-kr.com, self-TW
+HOST, ms.singaporepaya.com, self-TW
+HOST, sg.intlgame.com, self-TW
+
+HOST, ba.dn.nexoncdn.co.kr, self-TW
+HOST, m-api.nexon.com, self-TW
+HOST, ocsp.sca1b.amazontrust.com, self-TW
