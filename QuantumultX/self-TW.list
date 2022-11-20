@@ -29,4 +29,4 @@ HOST,ktmtw-prd-pvp5.nexon.com, self-TW
 IP-CIDR,119.28.217.111/32, self-TW
 
 # NIKKE
-HOST-SUFFIX, nikke-kr.com
+HOST-SUFFIX, nikke-kr.com, self-TW
