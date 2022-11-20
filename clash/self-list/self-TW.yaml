@@ -27,3 +27,6 @@ payload:
   - DOMAIN, ktmtw-prd-pvp4.nexon.com
   - DOMAIN, ktmtw-prd-pvp5.nexon.com
   - IP-CIDR, 119.28.217.111/32
+
+# NIKKE
+  - DOMAIN-SUFFIX, nikke-kr.com
