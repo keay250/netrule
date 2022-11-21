@@ -30,10 +30,8 @@ IP-CIDR, 119.28.217.111/32
 
 # NIKKE
 DOMAIN-SUFFIX, nikke-kr.com
-DOMAIN, sg-dr.intlgame.com
-DOMAIN, cloud.nikke-kr.com
+DOMAIN-SUFFIX, intlgame.com
 DOMAIN, ms.singaporepaya.com
-DOMAIN, sg.intlgame.com
 
 # 碧蓝档案
 DOMAIN, ba.dn.nexoncdn.co.kr
