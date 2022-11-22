@@ -1,5 +1,5 @@
 # NAME: self-US
 # AUTHOR: LateResonance
 
-
-DOMAIN, gf-us-cdn.sunborngame.com
+payload:
+  - DOMAIN, gf-us-cdn.sunborngame.com
