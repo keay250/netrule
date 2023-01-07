@@ -3,5 +3,5 @@
 
 # 漫画柜
 payload:
-  - DOMAIN-SUFFIX, manhuagui.com
-  - DOMAIN-SUFFIX, hamreus.com
+  - DOMAIN-KEYWORD, manhuagui.com
+  - DOMAIN-KEYWORD, hamreus.com
