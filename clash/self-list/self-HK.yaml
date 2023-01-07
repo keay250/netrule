@@ -1,2 +1,5 @@
 # NAME: self-HK
 # AUTHOR: LateResonance
+
+payload:
+  - DOMAIN-SUFFIX, ops.serverconn.com
