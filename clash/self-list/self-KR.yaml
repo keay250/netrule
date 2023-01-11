@@ -2,4 +2,5 @@
 # AUTHOR: LateResonance
 
 # DNF
-DOMAIN-SUFFIX, nexoncdn.co.kr
+payload:
+  - DOMAIN-SUFFIX, nexoncdn.co.kr
