@@ -2,29 +2,39 @@
 # AUTHOR: LateResonance
 
 payload:
+# NAME: self-TW
+# AUTHOR: LateResonance
+
+
   - IP-CIDR, 139.95.1.134/32
+
 # 碧蓝航线
   - DOMAIN-SUFFIX, azurlane.tw
+
 # 少女回战
   - DOMAIN-SUFFIX, shtwaccount.menaapp.net
   - DOMAIN, pregzdata1.anipkzhx.xyz
   - IP-CIDR, 47.91.10.133/32
   - IP-CIDR, 124.71.87.130/32
-  - 
+
 # 跑跑卡丁车
   - DOMAIN, kartm.dn.nexoncdn.co.kr
-  - DOMAIN, toy.log.nexon.io
+  - DOMAIN-SUFFIX, nexon.io
+  - DOMAIN-SUFFIX, nexon.com
   - DOMAIN, jp.livelog.nexon.com
   - DOMAIN, sdk-push.mp.nexon.com
   - DOMAIN, d30y0swoxkbnsm.cloudfront.net
   - DOMAIN, m-page.nexon.com
   - DOMAIN, tw.voice.gcloudcs.com
-  - DOMAIN, ktmtw-prd-pvp1.nexon.com
-  - DOMAIN, ktmtw-prd-pvp2.nexon.com
-  - DOMAIN, ktmtw-prd-pvp3.nexon.com
-  - DOMAIN, ktmtw-prd-pvp4.nexon.com
-  - DOMAIN, ktmtw-prd-pvp5.nexon.com
+  - DOMAIN-KEYWORD, ktmtw
   - IP-CIDR, 119.28.217.111/32
+
+# 跑跑卡丁车2
+  - DOMAIN-KEYWORD, Kart2
+  - DOMAIN-SUFFIX, multiplay.com
+#   - DOMAIN-SUFFIX, nexon.io
+#   - DOMAIN-SUFFIX, nexon.com
+
 
 # NIKKE
   - DOMAIN-SUFFIX, nikke-kr.com
@@ -33,8 +43,8 @@ payload:
 
 # 碧蓝档案
   - DOMAIN, ba.dn.nexoncdn.co.kr
-  - DOMAIN, m-api.nexon.com
+#   - DOMAIN, d30y0swoxkbnsm.cloudfront.net
+#   - DOMAIN, m-api.nexon.com
   - DOMAIN, ocsp.sca1b.amazontrust.com
-  - DOMAIN, d30y0swoxkbnsm.cloudfront.net
   - DOMAIN, nxm-tw-bagl.nexon.com
-  - DOMAIN, log.ngsm.nexon.com
+#   - DOMAIN, log.ngsm.nexon.com
