@@ -10,22 +10,22 @@ payload:
   - IP-CIDR,139.95.1.134/32
 
 # 少女回战
-  - DOMAIN, apicssdk.onemt.co
-  - DOMAIN, gamesupport.onemt.co
-  - DOMAIN, webapi.onemt.co
-  - DOMAIN, api.push.menaapp.net
-  - DOMAIN, apiuc.menaapp.net
-  - DOMAIN, apicssdk.onemt.co
-  - DOMAIN, dgapi.onemt.co
-  - DOMAIN, shtwnupdate.menaapp.net
-  - DOMAIN, sdklog.menaapp.net
-  - DOMAIN, sgversion.menaapp.net
-  - DOMAIN, shtwaccount.menaapp.net
-  - DOMAIN, pregzdata1.anipkzhx.xyz
-  - IP-CIDR, 47.91.10.133/32
-  - IP-CIDR, 124.71.87.130/32
-  - DOMAIN-SUFFIX, onemt.co
-  - DOMAIN-SUFFIX, menaapp.net
+  - DOMAIN,apicssdk.onemt.co
+  - DOMAIN,gamesupport.onemt.co
+  - DOMAIN,webapi.onemt.co
+  - DOMAIN,api.push.menaapp.net
+  - DOMAIN,apiuc.menaapp.net
+  - DOMAIN,apicssdk.onemt.co
+  - DOMAIN,dgapi.onemt.co
+  - DOMAIN,shtwnupdate.menaapp.net
+  - DOMAIN,sdklog.menaapp.net
+  - DOMAIN,sgversion.menaapp.net
+  - DOMAIN,shtwaccount.menaapp.net
+  - DOMAIN,pregzdata1.anipkzhx.xyz
+  - IP-CIDR,47.91.10.133/32
+  - IP-CIDR,124.71.87.130/32
+  - DOMAIN-SUFFIX,onemt.co
+  - DOMAIN-SUFFIX,menaapp.net
 
 # 跑跑卡丁车 RUSH+
   - DOMAIN,kartm.dn.nexoncdn.co.kr
