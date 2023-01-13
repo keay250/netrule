@@ -5,11 +5,9 @@ payload:
 # NAME: self-TW
 # AUTHOR: LateResonance
 
-
-  - IP-CIDR, 139.95.1.134/32
-
 # 碧蓝航线
   - DOMAIN-SUFFIX, azurlane.tw
+  - IP-CIDR, 139.95.1.134/32
 
 # 少女回战
   - DOMAIN-SUFFIX, shtwaccount.menaapp.net
@@ -19,34 +17,42 @@ payload:
 
 # 跑跑卡丁车
   - DOMAIN, kartm.dn.nexoncdn.co.kr
-  - DOMAIN-SUFFIX, nexon.io
-  - DOMAIN-SUFFIX, nexon.com
-  - DOMAIN, jp.livelog.nexon.com
   - DOMAIN, sdk-push.mp.nexon.com
   - DOMAIN, d30y0swoxkbnsm.cloudfront.net
   - DOMAIN, m-page.nexon.com
   - DOMAIN, tw.voice.gcloudcs.com
-  - DOMAIN-KEYWORD, ktmtw
+  - DOMAIN, ktmtw-prd-pvp1.nexon.com
+  - DOMAIN, ktmtw-prd-pvp2.nexon.com
+  - DOMAIN, ktmtw-prd-pvp3.nexon.com
+  - DOMAIN, ktmtw-prd-pvp4.nexon.com
+  - DOMAIN, ktmtw-prd-pvp5.nexon.com
   - IP-CIDR, 119.28.217.111/32
 
 # 跑跑卡丁车2
   - DOMAIN-KEYWORD, Kart2
   - DOMAIN-SUFFIX, multiplay.com
-  - DOMAIN, ktping7778Kart2-cbt-ping-fb33732084f8ed67.elb.ap-northeast-1.amazonaws.com
-  - DOMAIN-KEYWORD, Kart2-cbt-ping-fb33732084f8ed67.elb.ap-northeast-1.amazonaws.com
-#   - DOMAIN-SUFFIX, nexon.io
-#   - DOMAIN-SUFFIX, nexon.com
-
+  - DOMAIN-SUFFIX, Kart2-cbt-ping-fb33732084f8ed67.elb.ap-northeast-1.amazonaws.com
 
 # NIKKE
+  - DOMAIN, ms.singaporepaya.com
   - DOMAIN-SUFFIX, nikke-kr.com
   - DOMAIN-SUFFIX, intlgame.com
-  - DOMAIN, ms.singaporepaya.com
 
 # 碧蓝档案
   - DOMAIN, ba.dn.nexoncdn.co.kr
-#   - DOMAIN, d30y0swoxkbnsm.cloudfront.net
-#   - DOMAIN, m-api.nexon.com
+  - DOMAIN, d30y0swoxkbnsm.cloudfront.net
   - DOMAIN, ocsp.sca1b.amazontrust.com
   - DOMAIN, nxm-tw-bagl.nexon.com
-#   - DOMAIN, log.ngsm.nexon.com
+
+
+# Nexon 通用
+  - DOMAIN, toy.log.nexon.io
+  - DOMAIN, m-api.nexon.com
+  - DOMAIN, log.ngsm.nexon.com
+  - DOMAIN, jp.livelog.nexon.com
+  - DOMAIN, nxl.nxfs.nexon.com
+  - DOMAIN, pre-nxl.nxfs.nexon.com
+  - DOMAIN, nxl.nxfs.nexon.com
+  - DOMAIN-SUFFIX, nexon.io
+  - DOMAIN-SUFFIX, nexon.com
+  - DOMAIN-KEYWORD, nexon
