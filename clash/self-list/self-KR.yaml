@@ -1,6 +1,7 @@
 # NAME: self-SP
 # AUTHOR: LateResonance
 
-# DNF
+
 #payload:
+# DNF
 #  - DOMAIN-SUFFIX, nexoncdn.co.kr
