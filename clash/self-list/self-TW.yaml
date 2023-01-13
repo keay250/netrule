@@ -49,6 +49,7 @@ payload:
   - DOMAIN, toy.log.nexon.io
   - DOMAIN, m-api.nexon.com
   - DOMAIN, log.ngsm.nexon.com
+  - DOMAIN, nxl.log.nexon.io
   - DOMAIN, jp.livelog.nexon.com
   - DOMAIN, nxl.nxfs.nexon.com
   - DOMAIN, pre-nxl.nxfs.nexon.com
