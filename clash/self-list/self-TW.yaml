@@ -6,57 +6,57 @@ payload:
 # AUTHOR: LateResonance
 
 # 碧蓝航线
-  - DOMAIN-SUFFIX, azurlane.tw
-  - IP-CIDR, 139.95.1.134/32
+  - DOMAIN-SUFFIX,azurlane.tw
+  - IP-CIDR,139.95.1.134/32
 
 # 少女回战
-  - DOMAIN-SUFFIX, shtwaccount.menaapp.net
-  - DOMAIN, pregzdata1.anipkzhx.xyz
-  - IP-CIDR, 47.91.10.133/32
-  - IP-CIDR, 124.71.87.130/32
+  - DOMAIN-SUFFIX,shtwaccount.menaapp.net
+  - DOMAIN,pregzdata1.anipkzhx.xyz
+  - IP-CIDR,47.91.10.133/32
+  - IP-CIDR,124.71.87.130/32
 
 # 跑跑卡丁车 RUSH+
-  - DOMAIN, kartm.dn.nexoncdn.co.kr
-  - DOMAIN, sdk-push.mp.nexon.com
-  - DOMAIN, d30y0swoxkbnsm.cloudfront.net
-  - DOMAIN, m-page.nexon.com
-  - DOMAIN, tw.voice.gcloudcs.com
-  - DOMAIN, ktmtw-prd-pvp1.nexon.com
-  - DOMAIN, ktmtw-prd-pvp2.nexon.com
-  - DOMAIN, ktmtw-prd-pvp3.nexon.com
-  - DOMAIN, ktmtw-prd-pvp4.nexon.com
-  - DOMAIN, ktmtw-prd-pvp5.nexon.com
-  - DOMAIN, ktmtw-timeattack-mov-1300776466.cos.ap-taipei.myqcloud.com
-  - DOMAIN-SUFFIX, ap-taipei.myqcloud.com
-  - IP-CIDR, 119.28.217.111/32
+  - DOMAIN,kartm.dn.nexoncdn.co.kr
+  - DOMAIN,sdk-push.mp.nexon.com
+  - DOMAIN,d30y0swoxkbnsm.cloudfront.net
+  - DOMAIN,m-page.nexon.com
+  - DOMAIN,tw.voice.gcloudcs.com
+  - DOMAIN,ktmtw-prd-pvp1.nexon.com
+  - DOMAIN,ktmtw-prd-pvp2.nexon.com
+  - DOMAIN,ktmtw-prd-pvp3.nexon.com
+  - DOMAIN,ktmtw-prd-pvp4.nexon.com
+  - DOMAIN,ktmtw-prd-pvp5.nexon.com
+  - DOMAIN,ktmtw-timeattack-mov-1300776466.cos.ap-taipei.myqcloud.com
+  - DOMAIN-SUFFIX,ap-taipei.myqcloud.com
+  - IP-CIDR,119.28.217.111/32
 
 # 跑跑卡丁车2
-  - DOMAIN-KEYWORD, Kart2
-  - DOMAIN-SUFFIX, multiplay.com
-  - DOMAIN-SUFFIX, Kart2-cbt-ping-fb33732084f8ed67.elb.ap-northeast-1.amazonaws.com
+  - DOMAIN-KEYWORD,Kart2
+  - DOMAIN-SUFFIX,multiplay.com
+  - DOMAIN-SUFFIX,Kart2-cbt-ping-fb33732084f8ed67.elb.ap-northeast-1.amazonaws.com
 
 # NIKKE
-  - DOMAIN, ms.singaporepaya.com
-  - DOMAIN-SUFFIX, nikke-kr.com
-  - DOMAIN-SUFFIX, intlgame.com
+  - DOMAIN,ms.singaporepaya.com
+  - DOMAIN-SUFFIX,nikke-kr.com
+  - DOMAIN-SUFFIX,intlgame.com
 
 # 碧蓝档案
-  - DOMAIN, ba.dn.nexoncdn.co.kr
-  - DOMAIN, d30y0swoxkbnsm.cloudfront.net
-  - DOMAIN, ocsp.sca1b.amazontrust.com
-  - DOMAIN, nxm-tw-bagl.nexon.com
+  - DOMAIN,ba.dn.nexoncdn.co.kr
+  - DOMAIN,d30y0swoxkbnsm.cloudfront.net
+  - DOMAIN,ocsp.sca1b.amazontrust.com
+  - DOMAIN,nxm-tw-bagl.nexon.com
 
 
 # Nexon 通用
-  - DOMAIN, toy.log.nexon.io
-  - DOMAIN, m-api.nexon.com
-  - DOMAIN, log.ngsm.nexon.com
-  - DOMAIN, nxl.log.nexon.io
-  - DOMAIN, jp.livelog.nexon.com
-  - DOMAIN, nxl.nxfs.nexon.com
-  - DOMAIN, pre-nxl.nxfs.nexon.com
-  - DOMAIN, nxl.nxfs.nexon.com
-  - DOMAIN-SUFFIX, nexoncdn.co.kr
-  - DOMAIN-SUFFIX, nexon.io
-  - DOMAIN-SUFFIX, nexon.com
-  - DOMAIN-KEYWORD, nexon
+  - DOMAIN,toy.log.nexon.io
+  - DOMAIN,m-api.nexon.com
+  - DOMAIN,log.ngsm.nexon.com
+  - DOMAIN,nxl.log.nexon.io
+  - DOMAIN,jp.livelog.nexon.com
+  - DOMAIN,nxl.nxfs.nexon.com
+  - DOMAIN,pre-nxl.nxfs.nexon.com
+  - DOMAIN,nxl.nxfs.nexon.com
+  - DOMAIN-SUFFIX,nexoncdn.co.kr
+  - DOMAIN-SUFFIX,nexon.io
+  - DOMAIN-SUFFIX,nexon.com
+  - DOMAIN-KEYWORD,nexon
