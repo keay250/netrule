@@ -45,7 +45,8 @@ payload:
 # 跑跑卡丁车2
   - DOMAIN-KEYWORD,Kart2
   - DOMAIN-SUFFIX,multiplay.com
-  - DOMAIN-SUFFIX,Kart2-cbt-ping-fb33732084f8ed67.elb.ap-northeast-1.amazonaws.com
+#   - DOMAIN-SUFFIX,Kart2-cbt-ping-fb33732084f8ed67.elb.ap-northeast-1.amazonaws.com
+  - DOMAIN-SUFFIX,ap-northeast-1.amazonaws.com
 
 # NIKKE
   - DOMAIN,ms.singaporepaya.com
