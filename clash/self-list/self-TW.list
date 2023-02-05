@@ -55,10 +55,9 @@ DOMAIN, d30y0swoxkbnsm.cloudfront.net
 DOMAIN, ocsp.sca1b.amazontrust.com
 DOMAIN, nxm-tw-bagl.nexon.com
 
-# 游戏橘子
+# 游戏橘子 TW
 DOMAIN, tw.beanfun.com
-DOMAIN-SUFFIX, beanfun.com
-DOMAIN-KEYWORD, beanfun
+DOMAIN-SUFFIX, tw.beanfun.com
 
 
 # Nexon 通用
