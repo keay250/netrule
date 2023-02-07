@@ -3,6 +3,9 @@
 
 payload:
   - DOMAIN-SUFFIX,ops.serverconn.com
+  - DOMAIN,zabbix.serverconn.com
+  - DOMAIN-SUFFIX, serverconn.com
+
 
 # 禁漫天堂
   - DOMAIN-SUFFIX,18comic.org
