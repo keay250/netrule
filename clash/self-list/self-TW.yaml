@@ -60,6 +60,11 @@ payload:
   - DOMAIN,nxm-tw-bagl.nexon.com
 
 
+# 游戏橘子 TW
+  - DOMAIN,tw.beanfun.com
+  - DOMAIN-SUFFIX,tw.beanfun.com
+
+
 # Nexon 通用
   - DOMAIN,toy.log.nexon.io
   - DOMAIN,m-api.nexon.com
