@@ -21,3 +21,5 @@ payload:
   - DOMAIN-SUFFIX,openai.com
   - DOMAIN-KEYWORD,openai
   - DOMAIN-KEYWORD,chatgpt
+  - DOMAIN,cdn.auth0.com
+  - DOMAIN,openaiapi-site.azureedge.net
