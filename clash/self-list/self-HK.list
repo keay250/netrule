@@ -14,11 +14,3 @@ DOMAIN-KEYWORD, 18comic
 # 游戏橘子 HK
 DOMAIN, hk.beanfun.com
 DOMAIN-SUFFIX, hk.beanfun.com
-
-# ChatGPT
-DOMAIN, openai.com
-DOMAIN, cdn.auth0.com
-DOMAIN, openaiapi-site.azureedge.net
-DOMAIN-SUFFIX, openai.com
-DOMAIN-KEYWORD, openai
-DOMAIN-KEYWORD, chatgpt
