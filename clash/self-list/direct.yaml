@@ -2,3 +2,6 @@
 # AUTHOR: LateResonance
 
 # 自建VPS
+
+payload:
+  - DOMAIN,office.rayku.net
