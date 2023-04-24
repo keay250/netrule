@@ -73,3 +73,7 @@ DOMAIN-SUFFIX, nexoncdn.co.kr
 DOMAIN-SUFFIX, nexon.io
 DOMAIN-SUFFIX, nexon.com
 DOMAIN-KEYWORD, nexon
+
+# 米哈游通用
+DOMAIN-SUFFIX, hoyoverse.com
+DOMAIN-KEYWORD, hoyoverse
