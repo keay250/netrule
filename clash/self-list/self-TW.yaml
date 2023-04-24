@@ -82,3 +82,5 @@ payload:
 # 米哈游通用
   - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-KEYWORD,hoyoverse
+  - DOMAIN-KEYWORD,mihayo
+  - DOMAIN-KEYWORD,mihoyo
