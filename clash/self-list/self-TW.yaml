@@ -79,6 +79,14 @@ payload:
   - DOMAIN-SUFFIX,nexon.com
   - DOMAIN-KEYWORD,nexon
 
+# 原神
+  - DOMAIN-SUFFIX,yuanshen.com
+  - DOMAIN-KEYWORD,yuanshen
+
+# 星穹
+  - DOMAIN-SUFFIX,starrails.com
+  - DOMAIN-KEYWORD,starrails
+
 # 米哈游通用
   - DOMAIN-SUFFIX,hoyoverse.com
   - DOMAIN-KEYWORD,hoyoverse
