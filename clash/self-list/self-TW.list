@@ -82,6 +82,8 @@ DOMAIN-SUFFIX, nexon.com
 DOMAIN-KEYWORD, nexon
 
 ## 原神
+DOMAIN, autopatchhk.yuanshen.com
+DOMAIN, oschtdispathc.yuanshen.com
 DOMAIN-SUFFIX, yuanshen.com
 DOMAIN-KEYWORD, yuanshen
 
@@ -94,9 +96,9 @@ DOMAIN-KEYWORD, starrails
 
 ## 米哈游通用
 DOMAIN, ad-log-upload-os.hoyoverse.com
-DOMAIN, minor-api-os.hoyoverse.com
 DOMAIN, hk4e-sdk-os.hoyoverse.com
 DOMAIN, log-upload-os.hoyoverse.com
+DOMAIN, minor-api-os.hoyoverse.com
 DOMAIN, sdk-os-static.hoyoverse.com
 DOMAIN, sdk-common-static.hoyoverse.com
 DOMAIN, sg-hkrpg-api.hoyoverse.com
