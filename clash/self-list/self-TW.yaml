@@ -5,11 +5,19 @@ payload:
 # NAME: self-TW
 # AUTHOR: LateResonance
 
-# 碧蓝航线
+# 网页相关
+
+## Dcard
+  - DOMAIN,www.dcard.tw
+  - DOMAIN-SUFFIX, dcard.tw
+
+# 游戏相关
+
+## 碧蓝航线
   - DOMAIN-SUFFIX,azurlane.tw
   - IP-CIDR,139.95.1.134/32
 
-# 少女回战
+## 少女回战
   - DOMAIN,apicssdk.onemt.co
   - DOMAIN,gamesupport.onemt.co
   - DOMAIN,webapi.onemt.co
@@ -27,7 +35,7 @@ payload:
   - DOMAIN-SUFFIX,onemt.co
   - DOMAIN-SUFFIX,menaapp.net
 
-# 跑跑卡丁车 RUSH+
+## 跑跑卡丁车 RUSH+
   - DOMAIN,kartm.dn.nexoncdn.co.kr
   - DOMAIN,sdk-push.mp.nexon.com
   - DOMAIN,d30y0swoxkbnsm.cloudfront.net
@@ -42,30 +50,29 @@ payload:
   - DOMAIN-SUFFIX,ap-taipei.myqcloud.com
   - IP-CIDR,119.28.217.111/32
 
-# 跑跑卡丁车2
+## 跑跑卡丁车2
   - DOMAIN-KEYWORD,Kart2
   - DOMAIN-SUFFIX,multiplay.com
-#   - DOMAIN-SUFFIX,Kart2-cbt-ping-fb33732084f8ed67.elb.ap-northeast-1.amazonaws.com
   - DOMAIN-SUFFIX,ap-northeast-1.amazonaws.com
 
-# NIKKE
+## NIKKE
   - DOMAIN,ms.singaporepaya.com
   - DOMAIN-SUFFIX,nikke-kr.com
   - DOMAIN-SUFFIX,intlgame.com
 
-# 碧蓝档案
+## 碧蓝档案
   - DOMAIN,ba.dn.nexoncdn.co.kr
   - DOMAIN,d30y0swoxkbnsm.cloudfront.net
   - DOMAIN,ocsp.sca1b.amazontrust.com
   - DOMAIN,nxm-tw-bagl.nexon.com
 
 
-# 游戏橘子 TW
+## 游戏橘子 TW
   - DOMAIN,tw.beanfun.com
   - DOMAIN-SUFFIX,tw.beanfun.com
 
 
-# Nexon 通用
+## Nexon 通用
   - DOMAIN,toy.log.nexon.io
   - DOMAIN,m-api.nexon.com
   - DOMAIN,log.ngsm.nexon.com
@@ -79,7 +86,7 @@ payload:
   - DOMAIN-SUFFIX,nexon.com
   - DOMAIN-KEYWORD,nexon
 
-# 原神
+## 原神
   - DOMAIN,autopatchhk.yuanshen.com
   - DOMAIN,oschtdispathc.yuanshen.com
   - DOMAIN,oschtdispathc.yuanshen.com
@@ -87,14 +94,14 @@ payload:
   - DOMAIN-SUFFIX,yuanshen.com
   - DOMAIN-KEYWORD,yuanshen
 
-# 星穹
-## 下载
+## 星穹
+### 下载
   - DOMAIN,autopatchos.startrails.com
-## 游戏
+### 游戏
   - DOMAIN-SUFFIX,starrails.com
   - DOMAIN-KEYWORD,starrails
 
-# 米哈游通用
+## 米哈游通用
   - DOMAIN,ad-log-upload-os.hoyoverse.com
   - DOMAIN,minor-api-os.hoyoverse.com
   - DOMAIN,hk4e-sdk-os.hoyoverse.com
