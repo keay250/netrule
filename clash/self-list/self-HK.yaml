@@ -15,6 +15,7 @@ payload:
 # 绅士漫画
   - DOMAIN,img4.qy0.ru
   - DOMAIN,img3.qy0.ru
+  - DOMAIN-SUFFIX,qy0.ru
   - DOMAIN,wnacg.com
   - DOMAIN,wnacg.org
 
