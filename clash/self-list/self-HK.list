@@ -10,6 +10,11 @@ DOMAIN-SUFFIX, 18comic.org
 DOMAIN-SUFFIX, 18comic.vip
 DOMAIN-KEYWORD, 18comic
 
+# 绅士漫画
+DOMAIN, img4.qy0.ru
+DOMAIN, img3.qy0.ru
+DOMAIN, wnacg.com
+DOMAIN, wnacg.org
 
 # 游戏橘子 HK
 DOMAIN, hk.beanfun.com
