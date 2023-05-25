@@ -111,3 +111,5 @@ DOMAIN-KEYWORD,mihoyo
 
 ## HIT2
 DOMAIN, hit2tw.dn.nexoncdn.co.kr
+IP-CIDR, 103.73.253.209/32
+IP-CIDR, 104.208.67.229/32
