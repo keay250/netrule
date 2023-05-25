@@ -73,14 +73,14 @@ payload:
 
 
 ## Nexon 通用
-  - DOMAIN,toy.log.nexon.io
-  - DOMAIN,m-api.nexon.com
-  - DOMAIN,log.ngsm.nexon.com
-  - DOMAIN,nxl.log.nexon.io
   - DOMAIN,jp.livelog.nexon.com
+  - DOMAIN,log.ngsm.nexon.com
+  - DOMAIN,m-api.nexon.com
+  - DOMAIN,nxl.log.nexon.io
   - DOMAIN,nxl.nxfs.nexon.com
   - DOMAIN,pre-nxl.nxfs.nexon.com
-  - DOMAIN,nxl.nxfs.nexon.com
+  - DOMAIN,stamp.mp.nexon.com
+  - DOMAIN,toy.log.nexon.io
   - DOMAIN-SUFFIX,nexoncdn.co.kr
   - DOMAIN-SUFFIX,nexon.io
   - DOMAIN-SUFFIX,nexon.com
@@ -115,3 +115,6 @@ payload:
   - DOMAIN-KEYWORD,hoyoverse
   - DOMAIN-KEYWORD,mihayo
   - DOMAIN-KEYWORD,mihoyo
+
+## HIT2
+  - DOMAIN,hit2tw.dn.nexoncdn.co.kr
