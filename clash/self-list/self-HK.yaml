@@ -18,3 +18,7 @@ payload:
 # 游戏橘子 HK
   - DOMAIN,hk.beanfun.com
   - DOMAIN-SUFFIX,hk.beanfun.com
+
+# hanime
+  - DOMAIN,vdownload.hembed.com
+  - DOMAIN-SUFFIX,hembed.com
