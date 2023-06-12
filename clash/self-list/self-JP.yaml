@@ -1,16 +1,8 @@
 # NAME: self-US
 # AUTHOR: LateResonance
 
-# 漫画柜
+
 payload:
+# 漫画柜
   - DOMAIN-KEYWORD,manhuagui.com
   - DOMAIN-KEYWORD,hamreus.com
-
-# ChatGPT
-  - DOMAIN,openai.com
-  - DOMAIN,cdn.auth0.com
-  - DOMAIN,openaiapi-site.azureedge.net
-  - DOMAIN,platform.openai.com
-  - DOMAIN-SUFFIX,openai.com
-  - DOMAIN-KEYWORD,openai
-  - DOMAIN-KEYWORD,chatgpt
