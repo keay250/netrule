@@ -73,9 +73,10 @@ payload:
   - IP-CIDR,20.239.196.62/32
 
 ## MapleStore
+  - DOMAIN,jypm.nexon.com
   - DOMAIN,maplemglobal.dn.nexoncdn.co.kr
   - DOMAIN,nxm-maplemgl-staticweb.s3.amazonaws.com
-  - jypm.nexon.com
+  - DOMAIN,sdk-push.mp.nexon.com
 
 ## Nexon 通用
   - DOMAIN,jp.livelog.nexon.com
@@ -84,6 +85,7 @@ payload:
   - DOMAIN,nxl.log.nexon.io
   - DOMAIN,nxl.nxfs.nexon.com
   - DOMAIN,pre-nxl.nxfs.nexon.com
+  - DOMAIN,public.api.nexon.com
   - DOMAIN,stamp.mp.nexon.com
   - DOMAIN,toy.log.nexon.io
   - DOMAIN-SUFFIX,nexoncdn.co.kr
