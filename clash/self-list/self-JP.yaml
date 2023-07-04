@@ -6,3 +6,7 @@ payload:
 # 漫画柜
   - DOMAIN-KEYWORD,manhuagui.com
   - DOMAIN-KEYWORD,hamreus.com
+
+# 游戏
+## 少女樂園
+  - IPCIDR,35.79.238.57/32

@@ -4,3 +4,7 @@
 # 漫画柜
 DOMAIN-KEYWORD, manhuagui.com
 DOMAIN-KEYWORD, hamreus.com
+
+# 游戏
+## 女神樂園
+IPCIDR, 35.79.238.57/32
