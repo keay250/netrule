@@ -11,7 +11,7 @@ DOMAIN-SUFFIX, dcard.tw
 
 ## 碧蓝航线
 DOMAIN-SUFFIX, azurlane.tw
-IP-CIDR, 139.95.1.134/32, no-resolve
+IP-CIDR, 139.95.1.134/32
 
 ## 少女回战
 DOMAIN, apicssdk.onemt.co
@@ -26,8 +26,8 @@ DOMAIN, sdklog.menaapp.net
 DOMAIN, sgversion.menaapp.net
 DOMAIN, shtwaccount.menaapp.net
 DOMAIN, pregzdata1.anipkzhx.xyz
-IP-CIDR, 47.91.10.133/32, no-resolve
-IP-CIDR, 124.71.87.130/32, no-resolve
+IP-CIDR, 47.91.10.133/32
+IP-CIDR, 124.71.87.130/32
 DOMAIN-SUFFIX, onemt.co
 DOMAIN-SUFFIX, menaapp.net
 
@@ -64,9 +64,9 @@ DOMAIN, nxm-tw-bagl.nexon.com
 
 ## HIT2
 DOMAIN, hit2tw.dn.nexoncdn.co.kr
-IP-CIDR, 103.73.253.209/32, no-resolve
-IP-CIDR, 104.208.67.229/32, no-resolve
-IP-CIDR, 20.239.196.62/32, no-resolve
+IP-CIDR, 103.73.253.209/32
+IP-CIDR, 104.208.67.229/32
+IP-CIDR, 20.239.196.62/32
 
 ## MapleStore
 ### 游戏
