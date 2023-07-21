@@ -26,8 +26,9 @@ DOMAIN, sdklog.menaapp.net
 DOMAIN, sgversion.menaapp.net
 DOMAIN, shtwaccount.menaapp.net
 DOMAIN, pregzdata1.anipkzhx.xyz
-IP-CIDR, 47.91.10.133/32
-IP-CIDR, 124.71.87.130/32
+IP-CIDR, 47.91.10.0/24
+IP-CIDR, 124.71.87.0/24
+IP-CIDR, 47.244.67.0/24
 DOMAIN-SUFFIX, onemt.co
 DOMAIN-SUFFIX, menaapp.net
 
