@@ -52,8 +52,6 @@ payload:
   - IP-CIDR,119.28.217.111/32
 
 ## 跑跑卡丁车2
-  - DOMAIN-KEYWORD,Kart2
-  - DOMAIN-SUFFIX,multiplay.com
   - DOMAIN-SUFFIX,ap-northeast-1.amazonaws.com
 
 ## NIKKE
