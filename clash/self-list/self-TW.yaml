@@ -33,6 +33,7 @@ payload:
   - IP-CIDR,47.91.10.0/24
   - IP-CIDR,124.71.87.0/24
   - IP-CIDR,47.244.67.0/24
+  - IP-CIDR,185.19.216.0/24
   - DOMAIN-SUFFIX,onemt.co
   - DOMAIN-SUFFIX,menaapp.net
 
