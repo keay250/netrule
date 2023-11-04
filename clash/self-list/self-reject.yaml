@@ -1,4 +1,8 @@
-# NAME: self-HK
+# NAME: self-reject
 # AUTHOR: LateResonance
 
 payload:
+
+# 字节广告相关
+  - DOMAIN-SUFFIX,zijieapi.com
+  - DOMAIN-SUFFIX,pglstatp-toutiao.com
