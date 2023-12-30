@@ -72,8 +72,6 @@ payload:
   - DOMAIN,nxm-maplemgl-staticweb.s3.amazonaws.com
   - DOMAIN,sdk-push.mp.nexon.com
 
-
-
 ## Nexon 通用
   - DOMAIN,jp.livelog.nexon.com
   - DOMAIN,log.ngsm.nexon.com
