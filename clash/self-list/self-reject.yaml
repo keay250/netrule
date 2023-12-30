@@ -6,5 +6,5 @@ payload:
 # 字节广告相关
   - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
-  - api.iegadp.qq.com
-  - v3-default.365yg.com
+  - DOMAIN-SUFFIX,api.iegadp.qq.com
+  - DOMAIN-SUFFIX,v3-default.365yg.com
