@@ -40,6 +40,8 @@ payload:
   - DOMAIN,ktmtw-prd-pvp5.nexon.com
   - DOMAIN,ktmtw-timeattack-mov-1300776466.cos.ap-taipei.myqcloud.com
   - DOMAIN-SUFFIX,ap-taipei.myqcloud.com
+  - DOMAIN-SUFFIX,anticheatexpert.com
+  - DOMAIN-SUFFIX,tdatamaster.com
   - IP-CIDR,119.28.217.111/32
 
 ## 跑跑卡丁车2
