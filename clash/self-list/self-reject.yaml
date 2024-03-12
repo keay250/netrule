@@ -6,6 +6,8 @@ payload:
 # 字节广告相关
   - DOMAIN-SUFFIX,zijieapi.com
   - DOMAIN-SUFFIX,pglstatp-toutiao.com
+  - DOMAIN-SUFFIX,p3-ad-sign.byteimg.com
   - DOMAIN-SUFFIX,api.iegadp.qq.com
   - DOMAIN-SUFFIX,365yg.com
-  - DOMAIN-SUFFIX,p3-ad-sign.byteimg.com
+  - DOMAIN-SUFFIX,bytescm.com
+  - DOMAIN-SUFFIX,bytegecko.com
