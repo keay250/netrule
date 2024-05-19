@@ -2,28 +2,28 @@
 # AUTHOR: LateResonance
 
 # 禁漫天堂
-DOMAIN-SUFFIX, 18comic.org
-DOMAIN-SUFFIX, 18comic.vip
-DOMAIN-KEYWORD, 18comic
+DOMAIN-SUFFIX,18comic.org
+DOMAIN-SUFFIX,18comic.vip
+DOMAIN-KEYWORD,18comic
 
 # 绅士漫画
-DOMAIN, img4.qy0.ru
-DOMAIN, img3.qy0.ru
-DOMAIN-SUFFIX, qy0.ru
-DOMAIN, wnacg.com
-DOMAIN, wnacg.org
+DOMAIN,img4.qy0.ru
+DOMAIN,img3.qy0.ru
+DOMAIN-SUFFIX,qy0.ru
+DOMAIN,wnacg.com
+DOMAIN,wnacg.org
 
 # 游戏橘子 HK
-DOMAIN, hk.beanfun.com
-DOMAIN-SUFFIX, hk.beanfun.com
+DOMAIN,hk.beanfun.com
+DOMAIN-SUFFIX,hk.beanfun.com
 
 # hanime
-DOMAIN, hanime1.me
-DOMAIN, vdownload.hembed.com
-DOMAIN-SUFFIX, hembed.com
-DOMAIN, vdownload-40.sb-cd.com
-DOMAIN-SUFFIX, sb-cd.com
-DOMAIN, abre-videos.cdn1122.com
-DOMAIN-SUFFIX, cdn1122.com
-DOMAIN, cdn5-videos.motherlessmedia.com
-DOMAIN-SUFFIX, motherlessmedia.com
+DOMAIN,hanime1.me
+DOMAIN,vdownload.hembed.com
+DOMAIN-SUFFIX,hembed.com
+DOMAIN,vdownload-40.sb-cd.com
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN,abre-videos.cdn1122.com
+DOMAIN-SUFFIX,cdn1122.com
+DOMAIN,cdn5-videos.motherlessmedia.com
+DOMAIN-SUFFIX,motherlessmedia.com
