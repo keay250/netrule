@@ -10,4 +10,6 @@ payload:
 
 # 阿里云后台
   - DOMAIN,account.aliyun.com
+  - DOMAIN,dcdn.console.aliyun.com
   - DOMAIN,ynuf.alipay.com
+  - DOMAIN-SUFFIX,console.aliyun.com
