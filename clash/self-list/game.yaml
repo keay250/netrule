@@ -101,15 +101,15 @@ payload:
 #  - DOMAIN-KEYWORD,starrails
 
 ## 米哈游通用
-  - DOMAIN,ad-log-upload-os.hoyoverse.com
-  - DOMAIN,hk4e-sdk-os.hoyoverse.com
-  - DOMAIN,log-upload-os.hoyoverse.com
-  - DOMAIN,minor-api-os.hoyoverse.com
-  - DOMAIN,sdk-os-static.hoyoverse.com
-  - DOMAIN,sdk-common-static.hoyoverse.com
-  - DOMAIN,sg-hkrpg-api.hoyoverse.com
-  - DOMAIN,sg-public-data-api.hoyoverse.com
-  - DOMAIN,webstatic.hoyoverse.com
-  - DOMAIN-SUFFIX,hoyoverse.com
-  - DOMAIN-KEYWORD,hoyoverse
+#  - DOMAIN,ad-log-upload-os.hoyoverse.com
+#  - DOMAIN,hk4e-sdk-os.hoyoverse.com
+#  - DOMAIN,log-upload-os.hoyoverse.com
+#  - DOMAIN,minor-api-os.hoyoverse.com
+#  - DOMAIN,sdk-os-static.hoyoverse.com
+#  - DOMAIN,sdk-common-static.hoyoverse.com
+#  - DOMAIN,sg-hkrpg-api.hoyoverse.com
+#  - DOMAIN,sg-public-data-api.hoyoverse.com
+#  - DOMAIN,webstatic.hoyoverse.com
+#  - DOMAIN-SUFFIX,hoyoverse.com
+#  - DOMAIN-KEYWORD,hoyoverse
 #  - DOMAIN-KEYWORD,mihayo
