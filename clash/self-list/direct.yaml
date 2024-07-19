@@ -16,3 +16,7 @@ payload:
 
 # 东方财富股市数据
   - DOMAIN,push2.eastmoney.com
+
+# duocloud
+  - DOMAIN-SUFFIX,duocloud.net
+  - DOMAIN-KEYWORD,duocloud
