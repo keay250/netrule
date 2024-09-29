@@ -19,3 +19,6 @@ DOMAIN,push2.eastmoney.com
 # duocloud
 DOMAIN-SUFFIX,duocloud.net
 DOMAIN-KEYWORD,duocloud
+
+# 腾讯云游戏strat付款接口
+DOMAIN,ios.rqd.qq.com
