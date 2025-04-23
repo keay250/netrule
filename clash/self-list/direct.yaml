@@ -24,3 +24,6 @@ payload:
 
 # 腾讯云游戏strat付款接口
   - DOMAIN,ios.rqd.qq.com
+
+# 其他直连域名
+  - DOMAIN-SUFFIX,ilivedata.com
