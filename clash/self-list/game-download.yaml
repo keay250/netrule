@@ -1,0 +1,14 @@
+# NAME: game
+# AUTHOR: LateResonance
+payload:
+# 游戏下载域名
+## 碧蓝航线
+  - DOMAIN,blhxstatic.azurlane.tw
+## 少女回战
+  - DOMAIN,shtwnupdate.menaapp.net
+## 跑跑卡丁车RUSH (Nexon通用)
+  - DOMAIN,d30y0swoxkbnsm.cloudfront.net
+## 原神
+  - DOMAIN,autopatchhk.yuanshen.com
+## 棕色尘埃
+  - DOMAIN,bd2-cdn.akamaized.net
