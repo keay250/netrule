@@ -25,7 +25,6 @@ DOMAIN-SUFFIX,menaapp.net
 ## 跑跑卡丁车 RUSH+
 DOMAIN,kartm.dn.nexoncdn.co.kr
 DOMAIN,sdk-push.mp.nexon.com
-DOMAIN,d30y0swoxkbnsm.cloudfront.net
 DOMAIN,m-page.nexon.com
 DOMAIN,tw.voice.gcloudcs.com
 DOMAIN,ktmtw-prd-pvp1.nexon.com
@@ -43,6 +42,8 @@ DOMAIN-KEYWORD,kart2-cbt-ping
 ## NIKKE
 DOMAIN,ms.singaporepaya.com
 DOMAIN-SUFFIX,nikke-kr.com
+DOMAIN-SUFFIX,nikke-en.com
+DOMAIN-SUFFIX,nikke.hotcool.tw
 DOMAIN-SUFFIX,intlgame.com
 
 ## 碧蓝档案
@@ -84,7 +85,6 @@ DOMAIN,tw.beanfun.com
 DOMAIN-SUFFIX,tw.beanfun.com
 
 ## 原神
-# DOMAIN,autopatchhk.yuanshen.com
 # DOMAIN,oschtdispathc.yuanshen.com
 # DOMAIN-SUFFIX,yuanshen.com
 # DOMAIN-KEYWORD,yuanshen
