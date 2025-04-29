@@ -40,3 +40,5 @@ payload:
 ## 中山公交
   - DOMAIN-SUFFIX,shujupie.com
   - DOMAIN-SUFFIX,zhongshantong.net
+## GSM解锁
+  - DOMAIN-SUFFIX,gsxunlocking.com
