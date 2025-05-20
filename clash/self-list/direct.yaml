@@ -30,6 +30,7 @@ payload:
 
 # 星穹铁道
   - DOMAIN-SUFFIX,bhsr.com
+  - IP-CIDR,47.117.107.213/32
 
 # 无尽冬日小程序
   - DOMAIN-SUFFIX,ilivedata.com
