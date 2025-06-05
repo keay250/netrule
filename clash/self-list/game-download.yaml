@@ -8,6 +8,7 @@ payload:
   - DOMAIN,shtwnupdate.menaapp.net
 ## 跑跑卡丁车RUSH (Nexon通用)
   - DOMAIN,d30y0swoxkbnsm.cloudfront.net
+  - DOMAIN-SUFFIX,dn.nexoncdn.co.kr
 ## 原神
   - DOMAIN,autopatchhk.yuanshen.com
 ## 棕色尘埃
